@@ -1,0 +1,9 @@
+#summary OpenSim is the platform used in this project
+
+= Introduction =
+
+OpenSimulator is an application server for 3D virtual worlds
+
+= Details =
+
+It is open-source.
