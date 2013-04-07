@@ -8,4 +8,6 @@ OpenSimulator is an application server for 3D virtual worlds
 
 It is open-source.
 
-[More info]
+== Studies ==
+
+* [April-2013 EC-TEL2013]
