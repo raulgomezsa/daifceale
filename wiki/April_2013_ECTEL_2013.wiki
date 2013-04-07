@@ -6,4 +6,12 @@ Data collected in April 2013 pilot study (anonymised).
 
 = Details =
 
-[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/boxplot.R]
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/pre-post-tests.csv Pre- and post- test results]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/boxplot.R Program used for boxplot generation] (in [http://www.r-project.org/ R programming language])
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/gram-accuracy.png]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/lex-accuracy.png]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/writing-skills.png]
