@@ -17,3 +17,15 @@ Data collected in April 2013 pilot study (anonymised).
 [http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig3c_.jpg]
 
 [http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig3d_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig4a_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig4b_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig4c_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig4d_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig5a_.jpg]
+
+[http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/fig5b_.jpg]
