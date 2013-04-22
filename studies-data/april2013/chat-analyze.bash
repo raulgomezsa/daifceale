@@ -15,7 +15,7 @@
     # You should have received a copy of the GNU General Public License
     # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-SINTAXIS="$0 <fichero_log_chat.csv>"
+SINTAXIS="$0 <fichero_log_chat.csv> (con punto y como como separador de campos)"
 
 if [ $# -ne 1 ]
 then
@@ -28,6 +28,8 @@ then
  echo "Error, el fichero $1 no existe o no se puede leer"
  exit
 fi
+
+# TODO: calcular tiempo y poner nombers de los participantes
 
 # Un turno es el paso de hablar uno a hablar otro
 NT=$(cat $1 | cut -d";" -f2 | uniq | wc -l)
