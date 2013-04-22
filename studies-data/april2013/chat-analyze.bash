@@ -31,6 +31,8 @@ fi
 
 # TODO: calcular tiempo y poner nombers de los participantes
 
+echo "Procesando $1"
+
 # Un turno es el paso de hablar uno a hablar otro
 NT=$(cat $1 | cut -d";" -f2 | uniq | wc -l)
 echo "Number of turns: $NT"
@@ -47,5 +49,13 @@ cat $1 | cut -d";" -f3 | awk '{print $2}'|grep -v '^$'|wc -l
 
 TW=$(cat $1 | cut -d";" -f3 | wc -w)
 echo "Total words: $TW"
+
+
+
+TS_INI=$(date --date "$(head -n1 $1  | cut -d";" -f1 | tr "/" "-")"  +%s)
+TS_FIN=$(date --date "$(tail -n1 $1  | cut -d";" -f1 | tr "/" "-")"  +%s)
+
+DIFF_TS=$(( ( TS_FIN - TS_INI ) / 60 ))
+echo "Total minutes $DIFF_TS"
 
 #echo "German-only total words: "
