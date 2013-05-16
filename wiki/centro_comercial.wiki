@@ -2,7 +2,7 @@
 
 = Introducción =
 
-Se pretende desarrollar una *nueva actividad colaborativa*, en la que los alumnos deberán realizar mediante un juego de role diferentes compras en una tienda de ropa dentro de un centro comercial. 
+Se pretende desarrollar una *nueva actividad colaborativa*, en la que los alumnos deberán realizar mediante varios juegos de role una serie de compras en diferentes tiendas, que se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
 
@@ -12,9 +12,7 @@ La actividad está ambientada en un centro comercial de dos plantas. Para que lo
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
-La primera actividad se va a desarrollar en la planta baja, en el local situado a la izquierda de la entrada. En un futuro se pretende ampliar la actividad con otros dos o tres locales (un supermercado,una cafeteria,...), dependiendo de la capacidad de carga del servidor y simulador.
-
-La mecánica de juego que se va usar será la misma a la usada en SATURN. 
+El primer juego se va a desarrollar en la planta baja, en una tienda de ropa, situado a la izquierda de la entrada. En un futuro se pretende ampliar la actividad con otros locales, dependiendo de la capacidad de carga del servidor y simulador.
 
 El juego consistirá en un juego de role en el que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno asumirá el role del commercial y el otro del cliente. En función del papel que tenga el alumno recibe o un carro de compra (commercial) o una lista de compra (cliente). La actividad se inicia cuando el cliente pulsa el botón START. A partir de este momento los dos alumnos tienen que realizar de forma colaborativa la compra comunicándose via text chat. 
 
