@@ -4,9 +4,13 @@
 
 Se pretende desarrollar una *nueva actividad colaborativa*, en la que los alumnos deberán realizar compras en una tienda de un centro comercial. La tienda concretamente es de *ropa* y *accesorios varios*.
 
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
+
 = Detalles =
 
 La actividad está ambientada en un centro comercial de dos plantas. Para que los alumnos se muevan entre las plantas, se ha provisto a la actividad de un ascensor y unas escaleras. Arriba del todo hay una terraza al aire libre a la que solo se puede acceder por el ascensor.
+
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
 La actividad en principio se va a desarrollar sólo en la planta baja, en el local situado a la izquierda de la entrada. En un futuro se pretende ampliar la actividad con los otros tres locales que actualmente se encuentran vacíos. El problema que presenta ampliar el número de locales es la sobrecarga del servidor y del simulador. Es por ello que deberá estudiarse si finalmente se amplía el número de locales, y en caso de que se decida ampliarlo, a cuantos locales podemos dar soporte.
 
@@ -14,9 +18,14 @@ La mecánica de juego que se va usar será la misma, o parecida, a la usada en S
 
 El juego consistirá en que dos alumnos realicen una serie de compras. Para ello uno de los alumnos tendrá una lista de la compra, y otro alumno tendrá un carro en el que se almacenarán los productos. El alumno que tiene la lista de la compra le debe indicar al otro alumno, mediante el chat escrito, que objetos deben comprar.
 
+
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/04lista_compra.png" align="middle" height="300">
+
 El juego comienza cuando el alumno de la lista de la compra pulsa el botón de inicio que se encuentra en la lista. Una vez iniciada la actividad, aparecen en la lista los objetos que debe comprar.
 
 Para descargar el carro y pasar a la siguiente lista de la compra, el avatar del carrito debe pulsar el botón que está en el mostrador. En ese momento aparecen en el panel de detrás del mostrador los objetos que han acertado o fallado de la lista, y la puntuación obtenida hasta el momento.
+
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/05carrito.png" align="middle" height="300">
 
 Posteriormente el carrito queda vacío y la lista de la compra muestra los nuevos objetos. Este proceso se repite hasta que no queden más listas de la compra, lo que indica que ha finalizado el juego.
 
