@@ -2,11 +2,11 @@
 
 = Introducción =
 
-En el presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo es el de ofrecer a estudiantes de alemán (nivel A1) una herramienta lúdica y altamente interactiva a fin de fortalecer sus conocimientos lingüísticos dentro y/ o fuera del aula. Para ello hemos diseñado varios juegos de role en los que los alumnos tienen que realizar, en parejas de dos, diferentes tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diferentes tiendas (tienda de ropa, tienda de aparatos electrónicos) que se encuentran dentro de un centro commercial. 
+En el presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo es el de ofrecer a estudiantes de alemán (nivel A1) una herramienta lúdica y altamente interactiva a fin de fortalecer sus conocimientos lingüísticos dentro y fuera del aula. Para ello hemos diseñado varios juegos de role en los que los alumnos tienen que realizar, en parejas de dos, diferentes tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas (tienda de ropa, tienda de aparatos electrónicos) que se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
 
-= Descripción de las actividades diseñadas=
+=Descripción de las actividades diseñadas=
 
 Las actividades diseñadas se desarrollarán en un centro comercial de dos plantas. Para que los alumnos se puedan mover entre las dos plantas, se ha provisto a la actividad de un ascensor y unas escaleras. 
 
@@ -14,27 +14,27 @@ Las actividades diseñadas se desarrollarán en un centro comercial de dos plant
 
 ==Actividad 1==
 ===Tienda de ropa===
-El primer juego de role se va a desarrollar en la planta baja, en una tienda de ropa, situada a la izquierda de la entrada. 
+El primer juego de role se va a desarrollar en la planta baja, en una tienda de ropa (ZARA), situada a la izquierda de la entrada. 
 
-El juego consiste en que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno A asumirá el role del commerciante y un alumno B, el papel del cliente. En función del papel que tenga cada alumno éste último recibe o un carro de compra (commercial) o una lista de compra (cliente). La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se encuentra en su lista de compra. A partir de este momento los dos alumnos tienen que realizar de forma colaborativa la compra de un total de 24 productos diferentes. Para ello disponen de un total de 8 minutos durante los cuales deben comunicarse via text chat a fin de saber qué objetos tienen que buscar y comprar, entre los dos, en la tienda.
+El juego consiste en que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno A asumirá el papel del commerciante y un alumno B, el del cliente. En función del papel que tenga cada alumno éste último recibe, o un carro de compra (commercial) o una lista de compra con las imágenes de los productos a comprar(cliente). La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se encuentra en su lista de compra. A partir de este momento los dos alumnos tienen que realizar, de forma colaborativa, la compra de un total de 24 productos diferentes (un abrigo, una camiseta, un pantalón, unas gafas de sol, unos zapatos deportivos, un gorro, ropa interior,...). Para ello disponen de un total de 8 minutos durante los cuales deben comunicarse via text chat a fin de saber qué objetos tienen que buscar y comprar, entre los dos, en la tienda.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/04lista_compra.png" align="middle" height="300">
 
 El juego comienza cuando el alumno A (cliente) pulsa el botón de inicio que aparece en su lista de compra. Una vez iniciada la actividad, aparecen en la lista (en forma de fotos) los objetos que deberán comprar entre los dos. Hay un total de 4 listas de las cuales cada una contiene 6 productos diferentes.
 
-Para descargar el carro y pasar a la siguiente lista de la compra, el alumno B (commerciante) debe pulsar el botón que está en el mostrador de la caja. En ese momento aparecen en el panel de detrás del mostrador aquellos productos de la lista que han acertado o no acertado más la puntuación obtenida hasta ese momento del juego.
+Para descargar el carro y pasar a la siguiente lista de la compra, el alumno B (commerciante) debe pulsar el botón "Comprar", que está en el mostrador de la caja. En el momento en el que el alumno B pulsa el botón aparecen en el panel de detrás del mostrador aquellos productos de la lista que han acertado y/o no acertado. Además aparece la puntuación obtenida hasta ese momento del juego.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/05carrito.png" align="middle" height="300">
 
-Una vez descargados los productos en la caja, el carro de compra del alumno B (commerciante) se vacia mientras la lista del alumno A (cliente) se recarga con nuevos productos a comprar. Este proceso se repitirá 4 veces con un total de 24 productos diferentes.
+Una vez descargados los productos en la caja, el carro de compra del alumno B (commerciante) se vacia mientras la lista del alumno A (cliente) se vuelve a cargar con nuevos productos a comprar. Este proceso se repetirá 4 veces con un total de 24 productos diferentes.
 
-La actividad termína o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
+La actividad ha terminado, o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
 
 ==Actividad 2==
 ===Saturn===
 
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
-Dicha actividad se basa en el mismo mecanismo y la misma dinámica descrito anteriormente, pero haciendo hincapié en un vocabulario diferente. Al tratarse de una tienda de aparatos electrónicos se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidian de nuestros estudiantes y que por ello les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música,...)
+Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos anteriormente. Sin embargo esta vez se hará hincapié en otro tipo de vocabulario. Al tratarse de una tienda de aparatos electrónicos (SATURN) se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidiana de nuestros estudiantes y que les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música, GPS, radio, notebook, cafetera,...)
 
 Raúl, aquí podríamos insertar varias imágenes de Saturn.(mañana lo vemos!!!)
 
