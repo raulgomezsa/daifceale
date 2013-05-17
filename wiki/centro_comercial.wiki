@@ -13,7 +13,7 @@ Las actividades diseñadas se desarrollarán en un centro comercial de dos plant
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
 =Actividad 1=
-=Tienda de ropa=
+==Tienda de ropa==
 El primer juego de role se va a desarrollar en la planta baja, en una tienda de ropa, situada a la izquierda de la entrada. 
 
 El juego consiste en que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno A asumirá el role del commerciante y un alumno B, el papel del cliente. En función del papel que tenga cada alumno éste último recibe o un carro de compra (commercial) o una lista de compra (cliente). La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se encuentra en su lista de compra. A partir de este momento los dos alumnos tienen que realizar de forma colaborativa la compra de un total de 24 productos diferentes. Para ello disponen de un total de 8 minutos durante los cuales deben comunicarse via text chat a fin de saber qué objetos tienen que buscar y comprar, entre los dos, en la tienda.
@@ -31,7 +31,7 @@ Una vez descargados los productos en la caja, el carro de compra del alumno B (c
 La actividad termína o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
 
 =Actividad 2
-=Saturn=
+==Saturn==
 
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
 Dicha actividad se basa en el mismo mecanismo y la misma dinámica descrito anteriormente, pero haciendo hincapié en un vocabulario diferente. Al tratarse de una tienda de aparatos electrónicos se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidian de nuestros estudiantes y que por ello les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música,...)
