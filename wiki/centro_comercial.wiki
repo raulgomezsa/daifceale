@@ -13,6 +13,17 @@ Las actividades diseñadas se desarrollarán en un centro comercial de dos plant
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
 ==Actividad 1==
+===Sala de juegos===
+La primera actividad consiste en familiarizar al alumno con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con diferentes paneles en los que se proyecta el vocabulario del juego mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del MEMORY, en el que se trata de emparejar dos objetos:
+
+RAUL, INSERTAR IMAGEN de un panel del nuevo Memory.
+
+
+
+
+
+
+==Actividad 2==
 ===Tienda de ropa===
 El primer juego de role se va a desarrollar en la planta baja, en una tienda de ropa (ZARA), situada a la izquierda de la entrada. 
 
@@ -30,7 +41,7 @@ Una vez descargados los productos en la caja, el carro de compra del alumno B (c
 
 La actividad ha terminado, o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
 
-==Actividad 2==
+==Actividad 3==
 ===Saturn===
 
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
