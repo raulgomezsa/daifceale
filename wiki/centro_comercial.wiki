@@ -2,13 +2,13 @@
 
 = Introducción =
 
-En el presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo es el de ofrecer a estudiantes de alemán (nivel A1) una herramienta lúdica y altamente interactiva a fin de fortalecer sus conocimientos lingüísticos dentro y fuera del aula. Para ello hemos diseñado varios juegos de role en los que los alumnos tienen que realizar, en parejas de dos, diferentes tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas (tienda de ropa, tienda de aparatos electrónicos) que se encuentran dentro de un centro commercial. 
+A lo largo del presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo fue el de ofrecer a nuestros estudiantes de la asignatura de Alemán II (nivel A1), una herramienta lúdica y altamente interactiva a fin de fortalecer su competencia comunicativa en alemán. Para ello hemos diseñado un videojuego que contiene diferentes niveles y tareas a resolver. Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN), que se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
 
 =Descripción de las actividades diseñadas=
 
-Las actividades diseñadas se desarrollarán en un centro comercial de dos plantas. Para que los alumnos se puedan mover entre las dos plantas, se ha provisto a la actividad de un ascensor y unas escaleras. 
+Las actividades diseñadas se desarrollan en un centro comercial de dos plantas. Para que los alumnos se puedan mover entre las dos plantas, se ha provisto a la actividad además de un ascensor y de unas escaleras. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
