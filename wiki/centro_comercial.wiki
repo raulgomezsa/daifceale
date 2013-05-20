@@ -14,21 +14,18 @@ Las actividades diseñadas se desarrollarán en un centro comercial de dos plant
 
 ==Actividad 1==
 ===Sala de juegos===
-La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con diferentes paneles en los que se proyecta el vocabulario del juego mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del MEMORY, en el que se trata de emparejar dos objetos:
+La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con diferentes paneles en los que se proyecta el vocabulario del juego mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del conocido MEMORY, en el que se trata de emparejar dos objetos o imágenes.
 
 RAUL, INSERTAR IMAGEN de un panel del nuevo Memory.
 
 
 
-El objetivo de la actividad es no sólo facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además motivarles mediante 
-
-
-
-
+El objetivo de la actividad no es sólo el de facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además motivarles a aprender y consolidar nuevo vocabulario mediante una actividad lúdica e interactiva. 
+Una vez pasada por la sala de juegos en la que los alumnos tienen que sacar un mínimo de 40/60 puntos pueden pasar via teletransporte a las dos siguientes actividades.
 
 ==Actividad 2==
 ===Tienda de ropa===
-El primer juego de role se va a desarrollar en la planta baja, en una tienda de ropa (ZARA), situada a la izquierda de la entrada. 
+El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO),justo a la izquierda de la entrada. 
 
 El juego consiste en que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno A asumirá el papel del commerciante y un alumno B, el del cliente. En función del papel que tenga cada alumno éste último recibe, o un carro de compra (commercial) o una lista de compra con las imágenes de los productos a comprar(cliente). La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se encuentra en su lista de compra. A partir de este momento los dos alumnos tienen que realizar, de forma colaborativa, la compra de un total de 24 productos diferentes (un abrigo, una camiseta, un pantalón, unas gafas de sol, unos zapatos deportivos, un gorro, ropa interior,...). Para ello disponen de un total de 8 minutos durante los cuales deben comunicarse via text chat a fin de saber qué objetos tienen que buscar y comprar, entre los dos, en la tienda.
 
@@ -53,4 +50,4 @@ Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos ant
 Raúl, aquí podríamos insertar varias imágenes de Saturn.(mañana lo vemos!!!)
 
 =Proyecto Futuro=
-En un futuro se pretende ampliar la actividad con otros locales, dependiendo de la capacidad de carga del servidor y simulador.
+En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. 
