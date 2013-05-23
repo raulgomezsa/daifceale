@@ -5,9 +5,12 @@
 A lo largo del presente Proyecto de Innovación Docente se han desarrollado una serie de *actividades colaborativas* cuyo principal objetivo fue el de ofrecer a nuestros estudiantes de Alemán II (nivel A1) una herramienta lúdica e interactiva a fin de fortalecer su competencia comunicativa dentro y fuera del aula. Para ello hemos diseñado un videojuego que se basa en la constante interacción del jugador con el entorno lúdico y otros jugadores. Este último se caracteríza no solo por contener una gran variedad de objetos con las que interacturar, sino además por asignarle a cada jugador un avatar que le permite interactuar en primera persona y en tiempo real. 
 
 
+
 =RAUL= (aquí podríamos quizás insertar alguna imagen de dos avatares que están enfrente el uno del otro y un ejemplo de text chat (4 lineas)
 
 y otra imagen de un solo avatar tocando por ejemplo un objeto en la tienda saturn. Necesitamos insertar aquí algo que demuestr los dos tipos de itneracción que el alumno puede tener en el mundo virtual.)
+
+
 
 
 
