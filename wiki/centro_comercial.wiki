@@ -5,7 +5,8 @@
 A lo largo del presente Proyecto de Innovación Docente se han desarrollado una serie de *actividades colaborativas* cuyo principal objetivo fue el de ofrecer a nuestros estudiantes de Alemán II (nivel A1) una herramienta lúdica e interactiva a fin de fortalecer su competencia comunicativa dentro y fuera del aula. Para ello hemos diseñado un videojuego que se basa en la constante interacción del jugador con el entorno lúdico. Este último se caracteríza no solo por contener una gran variedad de objetos diferentes con las que el jugador puede interacturar, sino además por ofrecer la posibilidad de interactuar con otros jugadores en tiempo real. Para ello se le asigna a cada jugador con un avatar (una figura en 3-D) con el que se puede mover por el juego y que le permite interactuar directamente con el entorno y sus habitantes.
 
 
-=RAUL=, insertar quizás alguna imagen de un avatar.(del tuyo)
+=RAUL=
+aquí podríamos quizás insertar alguna imagen de tu avatar.
 
 
 y de usar la lengua meta de forma auténtica. El juego contiene además diferentes niveles y tareas a resolver. Los niveles están diseñados de tal modo que los jugadores necesitan alcanzar un puntuaje mínimo para poder proceder al siguiente nivel.
