@@ -61,7 +61,6 @@ Una vez descargados los productos en la caja, el carro de compra del alumno B (c
 
 La actividad ha terminado, o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
 
-<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/08listaMango.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/10caritoMango.png" align="middle" height="300">
 
 ==Actividad 3==
 ===Saturn===
