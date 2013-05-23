@@ -2,7 +2,10 @@
 
 = Introducción =
 
-A lo largo del presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo fue el de ofrecer a nuestros estudiantes de la asignatura de Alemán II (nivel A1), una herramienta lúdica y altamente interactiva a fin de fortalecer su competencia comunicativa en alemán dentro y fuera del aula de idiomas. Para ello hemos diseñado un videojuego que contiene diferentes niveles y tareas a resolver. Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN), que se encuentran dentro de un centro commercial. 
+A lo largo del presente Proyecto de Innovación Docente se han desarrollado una serie de *actividades colaborativas* cuyo principal objetivo es el de ofrecer a nuestros estudiantes de Alemán II (nivel A1) una herramienta lúdica e interactiva a fin de fortalecer su competencia comunicativa no solo dentro sino también fuera del aula. Para ello hemos diseñado un videojuego que requiere la constante interacción del jugador con otros jugadores y hablantes de alemán. El juego contiene además diferentes niveles y tareas a resolver. Los niveles están diseñados de tal modo que los jugadores necesitan alcanzar un puntuaje mínimo para poder proceder al siguiente nivel.
+
+
+Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN) que se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/01entrada.png" align="middle" height="300">
 
@@ -14,12 +17,12 @@ Las actividades diseñadas se desarrollan en un centro comercial de dos plantas.
 
 ==Actividad 1==
 ===Sala de juegos===
-La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con diferentes paneles en los que se proyecta el vocabulario del juego mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del conocido MEMORY, en el que se trata de emparejar dos objetos o imágenes.
+La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con un total de 8 paneles diferentes en los que se proyecta el vocabulario que necesitan los jugadores para poder jugar posteriormente los dos juegos de role. El vocabulario se presenta mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del conocido MEMORY, en el que se trata de emparejar dos objetos que tengan algo en común.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/06memory.png" align="middle" height="300">
 
-El objetivo de la actividad no es sólo el de facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además motivarles a aprender y consolidar nuevo vocabulario mediante una actividad lúdica e interactiva. 
-Una vez pasada por la sala de juegos en la que los alumnos tienen que sacar un mínimo de 40/60 puntos pueden pasar via teletransporte a las dos siguientes actividades.
+El principal objetivo de la actividad no es sólo el de facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además motivarles a aprender y consolidar nuevo vocabulario mediante una actividad lúdica e interactiva. 
+Una vez pasada por la sala de juegos, en la que los alumnos tienen que sacar un mínimo de 40/60 puntos, se les permite pasar via teletransporte a las dos siguientes actividades que se desarrollan en una tienda de ropa y en una tienda de aparatos electrónicos.
 
 ==Actividad 2==
 ===Tienda de ropa===
@@ -54,4 +57,4 @@ Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos ant
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/09listaSaturn.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/11carritoSaturn.png" align="middle" height="300">
 
 =Proyecto Futuro=
-En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. 
+En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. Entre ellos sería de interés una cafeteria y un supermercado.
