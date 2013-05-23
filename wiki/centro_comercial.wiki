@@ -53,7 +53,7 @@ La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se en
 
 El juego comienza cuando el alumno A (cliente) pulsa el botón de inicio que aparece en su lista de compra. Una vez iniciada la actividad, aparecen en la lista (en forma de fotos) los objetos que deberán comprar entre los dos. Hay un total de 4 listas de las cuales cada una contiene 6 productos diferentes.
 
-Para descargar el carro y pasar a la siguiente lista de la compra, el alumno B (commerciante) debe pulsar el botón "Comprar", que está en el mostrador de la caja. En el momento en el que el alumno B pulsa el botón aparecen en el panel de detrás del mostrador aquellos productos de la lista que han acertado y/o no acertado. Además aparece la puntuación obtenida hasta ese momento del juego.
+Para descargar el carro y pasar a la siguiente lista de la compra, el alumno B (commerciante) debe pulsar el botón "Kaufen" (=comprar), que está en el mostrador de la caja. En el momento en el que el alumno B pulsa el botón aparecen en el panel de detrás del mostrador aquellos productos de la lista que han acertado y/o no acertado. Además aparece la puntuación obtenida hasta ese momento del juego.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/05carrito.png" align="middle" height="300">
 
