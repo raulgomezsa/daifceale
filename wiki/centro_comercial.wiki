@@ -41,6 +41,8 @@ Una vez descargados los productos en la caja, el carro de compra del alumno B (c
 
 La actividad ha terminado, o cuando los alumnos hayan comprado todos los productos de las 4 listas o cuando haya terminado el tiempo establecido para el juego (8 minutos).
 
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/08listaMango.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/10caritoMango.png" align="middle" height="300">
+
 ==Actividad 3==
 ===Saturn===
 
@@ -48,6 +50,8 @@ A la segunda actividad, que se encuentra en la segunda planta del centro commerc
 Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos anteriormente. Sin embargo esta vez se hará hincapié en otro tipo de vocabulario. Al tratarse de una tienda de aparatos electrónicos (SATURN) se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidiana de nuestros estudiantes y que les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música, GPS, radio, notebook, cafetera,...)
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/07saturn.png" align="middle" height="300">
+
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/09listaSaturn.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/11carritoSaturn.png" align="middle" height="300">
 
 =Proyecto Futuro=
 En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. 
