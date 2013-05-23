@@ -4,7 +4,7 @@
 
 A lo largo del presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo fue el de ofrecer a nuestros estudiantes de la asignatura de Alemán II (nivel A1), una herramienta lúdica y altamente interactiva a fin de fortalecer su competencia comunicativa en alemán. Para ello hemos diseñado un videojuego que contiene diferentes niveles y tareas a resolver. Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN), que se encuentran dentro de un centro commercial. 
 
-<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/01entrada.png" align="middle" height="300">
 
 =Descripción de las actividades diseñadas=
 
@@ -16,16 +16,16 @@ Las actividades diseñadas se desarrollan en un centro comercial de dos plantas.
 ===Sala de juegos===
 La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con diferentes paneles en los que se proyecta el vocabulario del juego mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del conocido MEMORY, en el que se trata de emparejar dos objetos o imágenes.
 
-RAUL, INSERTAR IMAGEN de un panel del nuevo Memory.
-
-
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/06memory.png" align="middle" height="300">
 
 El objetivo de la actividad no es sólo el de facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además motivarles a aprender y consolidar nuevo vocabulario mediante una actividad lúdica e interactiva. 
 Una vez pasada por la sala de juegos en la que los alumnos tienen que sacar un mínimo de 40/60 puntos pueden pasar via teletransporte a las dos siguientes actividades.
 
 ==Actividad 2==
 ===Tienda de ropa===
-El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO),justo a la izquierda de la entrada. 
+El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO),justo a la izquierda de la entrada.
+
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
 
 El juego consiste en que dos alumnos deben realizar juntos una serie de compras. Para ello un alumno A asumirá el papel del commerciante y un alumno B, el del cliente. En función del papel que tenga cada alumno éste último recibe, o un carro de compra (commercial) o una lista de compra con las imágenes de los productos a comprar(cliente). La actividad se inicia cuando el alumno-cliente pulsa el botón START, que se encuentra en su lista de compra. A partir de este momento los dos alumnos tienen que realizar, de forma colaborativa, la compra de un total de 24 productos diferentes (un abrigo, una camiseta, un pantalón, unas gafas de sol, unos zapatos deportivos, un gorro, ropa interior,...). Para ello disponen de un total de 8 minutos durante los cuales deben comunicarse via text chat a fin de saber qué objetos tienen que buscar y comprar, entre los dos, en la tienda.
 
@@ -47,7 +47,7 @@ La actividad ha terminado, o cuando los alumnos hayan comprado todos los product
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
 Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos anteriormente. Sin embargo esta vez se hará hincapié en otro tipo de vocabulario. Al tratarse de una tienda de aparatos electrónicos (SATURN) se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidiana de nuestros estudiantes y que les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música, GPS, radio, notebook, cafetera,...)
 
-Raúl, aquí podríamos insertar varias imágenes de Saturn.(mañana lo vemos!!!)
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/07saturn.png" align="middle" height="300">
 
 =Proyecto Futuro=
 En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. 
