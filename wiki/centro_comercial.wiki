@@ -8,7 +8,7 @@ A lo largo del presente proyecto se han desarrollado una serie de *nuevas activi
 
 =Descripción de las actividades diseñadas=
 
-Las actividades diseñadas se desarrollan en un centro comercial de dos plantas. Para que los alumnos se puedan mover entre las dos plantas, se ha provisto a la actividad además de un ascensor y de unas escaleras. 
+Las actividades diseñadas se desarrollan en un centro comercial de dos plantas. Para que los alumnos se puedan mover entre las dos plantas, se ha provisto a la actividad de un ascensor y de unas escaleras. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
