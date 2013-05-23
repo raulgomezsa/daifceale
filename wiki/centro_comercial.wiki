@@ -2,7 +2,7 @@
 
 = Introducción =
 
-A lo largo del presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo fue el de ofrecer a nuestros estudiantes de la asignatura de Alemán II (nivel A1), una herramienta lúdica y altamente interactiva a fin de fortalecer su competencia comunicativa en alemán. Para ello hemos diseñado un videojuego que contiene diferentes niveles y tareas a resolver. Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN), que se encuentran dentro de un centro commercial. 
+A lo largo del presente proyecto se han desarrollado una serie de *nuevas actividades colaborativas*. El principal objetivo fue el de ofrecer a nuestros estudiantes de la asignatura de Alemán II (nivel A1), una herramienta lúdica y altamente interactiva a fin de fortalecer su competencia comunicativa en alemán dentro y fuera del aula de idiomas. Para ello hemos diseñado un videojuego que contiene diferentes niveles y tareas a resolver. Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN), que se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/01entrada.png" align="middle" height="300">
 
