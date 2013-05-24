@@ -68,7 +68,7 @@ La actividad ha terminado, o cuando los alumnos hayan comprado todos los product
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
 Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos anteriormente. Sin embargo esta vez se hará hincapié en otro tipo de vocabulario. Al tratarse de una tienda de aparatos electrónicos (SATURN) se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidiana de nuestros estudiantes y que les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música, GPS, radio, notebook, cafetera,...)
 
-<wiki:video url="http://www.youtube.com/watch?v=gnYEFD9Y6A0" align=middle/>
+<wiki:video url="http://www.youtube.com/watch?v=WMGRjW6Gm_0"/>
 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/07saturn.png" align="middle" height="300">
