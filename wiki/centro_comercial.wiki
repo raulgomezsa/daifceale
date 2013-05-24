@@ -70,9 +70,6 @@ Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos ant
 
 <wiki:video url="http://www.youtube.com/watch?v=WMGRjW6Gm_0"/>
 
-
-<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/07saturn.png" align="middle" height="300">
-
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/09listaSaturn.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/11carritoSaturn.png" align="middle" height="300">
 
 =Proyecto Futuro=
