@@ -40,7 +40,7 @@ Una vez pasada por la sala de juegos, en la que los alumnos tienen que sacar un 
 
 
 ==Actividad 2==
-===Mango=== 
+===Tienda de Mango=== 
 El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO) justo a la izquierda de la entrada.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
@@ -66,7 +66,7 @@ La actividad ha terminado, o cuando los alumnos hayan comprado todos los product
 
 
 ==Actividad 3==
-===Saturn===
+===Tienda de Saturn===
 
 A la segunda actividad, que se encuentra en la segunda planta del centro commercial, el alumno accede mediante un ascensor o una escalera.
 Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos anteriormente. Sin embargo esta vez se hará hincapié en otro tipo de vocabulario. Al tratarse de una tienda de aparatos electrónicos (SATURN) se trata de trabajar sobre todo aquel vocabulario que forma parte de la vida cotidiana de nuestros estudiantes y que les resulte interesante y atractivo (televisor, telefono móvil, videoconsola, ordenador, MP3 Player, equipo de música, GPS, radio, notebook, cafetera,...)
