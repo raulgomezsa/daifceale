@@ -41,7 +41,7 @@ Una vez pasada por la sala de juegos, en la que los alumnos tienen que sacar un 
 
 ==Actividad 2==
 ===Tienda de ropa===
-El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO)justo a la izquierda de la entrada.
+El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO) justo a la izquierda de la entrada.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
 
@@ -76,4 +76,4 @@ Dicha actividad se basa en el mismo mecanismo y la misma dinámica descritos ant
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/09listaSaturn.png" align="middle" height="300"><img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/11carritoSaturn.png" align="middle" height="300">
 
 =Proyecto Futuro=
-En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y estructuras a fin de mejorar su competencia comunicativa. Entre ellos sería de interés una cafeteria y un supermercado.
+En un futuro se pretende ampliar la actividad con otros locales que permitan ofrecer a los alumnos la práctica de más vocabulario y más estructuras a fin de mejorar su competencia comunicativa. Entre ellos sería de interés una cafeteria y un supermercado. Además se pretende estudiar la posibilidad de ampliar las herramientas del juego mediante la inclusión del voice-chat.
