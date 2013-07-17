@@ -1,0 +1,28 @@
+=Tutorial de Acceso al Mundo Virtual=
+----
+
+Hola a todos,
+Os invitamos a participar en una experiencia 3D para aprender nuevas cosas 
+
+en alemán!
+Para conectarte debes:
+
+==Paso 1: Descargar e instalar el siguiente programa==
+
+[http://imprudence.googlecode.com/files/Imprudence-1.3.2-Setup.exe Descarga del Visor Imprudence]
+
+==Paso 2: Ver el siguiente video explicativo sobre el uso del programa==
+
+[http://150.244.58.183:8080/PFCPrueba/Videos/TutorialAcceso_controller.swf Video Tutorial]
+
+==Paso 3: Conectarse al mundo virtual==
+Ahora necesitáis los datos insertados durante el registro:
+
+  * User Name : Aqui el nombre del avatar completo, separado por un espacio 
+
+entre nombre y apellido. Ej:Cristina Utrera
+  * Contraseña : Vuestra contraseña.
+  * Connect To : http://150.244.56.170:8002
+
+¡Ánimo a todos! y esperamos que os guste.
+Danke für alles!
