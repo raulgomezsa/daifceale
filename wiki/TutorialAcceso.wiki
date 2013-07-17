@@ -22,7 +22,7 @@ Ahora necesitáis los datos insertados durante el registro:
 
 entre nombre y apellido. Ej:Cristina Utrera
   * Contraseña : Vuestra contraseña.
-  * Connect To : http://150.244.56.170:8002
+  * Connect To : http://opensim.uca.es:8002
 
 ¡Ánimo a todos! y esperamos que os guste.
 Danke für alles!
