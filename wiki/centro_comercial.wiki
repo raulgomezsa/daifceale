@@ -28,7 +28,7 @@ Las actividades diseñadas se desarrollan en un centro comercial de dos plantas.
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/02vista_general.png" align="middle" height="300">
 
 ==Actividad 1==
-===Sala de juegos===
+===Sala de Memory===
 La primera actividad consiste en familiarizar a los alumnos con el vocabulario necesario para los dos juegos de role que hemos diseñado. Para ello hemos diseñado una sala con un total de 8 paneles diferentes en los que se proyecta el vocabulario que necesitan los jugadores para poder jugar posteriormente los dos juegos de role. El vocabulario se presenta mediante imágenes, archivos de audio y textos. El mecanismo de la actividad se basa en el del conocido MEMORY, en el que se trata de emparejar dos objetos o conceptos que tengan algo en común. En el caso de nuestro juego se trata de emparejar imágenes con su correspondientes textos que a su vez van acompañados de archivos de audio.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/06memory.png" align="middle" height="300">
