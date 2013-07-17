@@ -13,7 +13,7 @@ Para conectarte debes:
 
 ==Paso 2: Ver el siguiente video explicativo sobre el uso del programa==
 
-[http://150.244.58.183:8080/PFCPrueba/Videos/TutorialAcceso_controller.swf Video Tutorial]
+<wiki:video url="http://www.youtube.com/watch?v=s-bagiSC-48&feature=youtu.be" width=700/>
 
 ==Paso 3: Conectarse al mundo virtual==
 Ahora necesitáis los datos insertados durante el registro:
