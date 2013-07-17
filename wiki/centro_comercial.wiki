@@ -40,7 +40,7 @@ Una vez pasada por la sala de juegos, en la que los alumnos tienen que sacar un 
 
 
 ==Actividad 2==
-===Tienda de ropa===
+===Mango=== 
 El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO) justo a la izquierda de la entrada.
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/03vista_tienda.png" align="middle" height="300">
