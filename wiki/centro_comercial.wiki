@@ -2,7 +2,7 @@
 
 = Introducción =
 
-A lo largo del presente Proyecto de Innovación Docente se han desarrollado una serie de *actividades colaborativas* cuyo principal objetivo fue el de ofrecer a nuestros estudiantes de Alemán II (nivel A1) una herramienta lúdica e interactiva a fin de fortalecer su competencia comunicativa dentro y fuera del aula. Para ello hemos diseñado un videojuego que se basa en la constante interacción del jugador con el entorno lúdico. Este último se caracteríza no solo por contener una gran variedad de objetos con las que interacturar, sino además por asignarle a cada jugador un avatar que le permite, por ejemplo, interactuar en primera persona y en tiempo real con otros jugadores via text chat. 
+A lo largo del presente Proyecto de Innovación Docente se han desarrollado una serie de *actividades colaborativas* cuyo principal objetivo fue el de ofrecer a nuestros estudiantes de Alemán II (nivel A1) una herramienta lúdica e interactiva a fin de fortalecer su competencia comunicativa dentro y fuera del aula. Para ello hemos diseñado un videojuego que se basa en la constante interacción del jugador con el entorno lúdico. Este último se caracteríza no sólo por contener una gran variedad de objetos con los que interacturar, sino además por asignarle a cada jugador un avatar que le permite, por ejemplo, interactuar en primera persona y en tiempo real con otros jugadores via text chat. 
 
 
 
@@ -14,10 +14,10 @@ y otra imagen de un solo avatar tocando por ejemplo un objeto en la tienda satur
 
 
 
-El atractivo del juego no consiste solamente en el hecho de poder interactuar con el entorno y otros jugadores, sino de usar la lengua meta de forma significativa y auténtica. El juego contiene además diferentes niveles y tareas a resolver. Los niveles están diseñados de tal modo que los jugadores necesitan alcanzar un puntuaje mínimo para poder proceder al siguiente nivel.
+El atractivo del juego no consiste solamente en el hecho de poder interactuar con el entorno y otros jugadores, sino además en usar la lengua meta de forma significativa y auténtica. El juego contiene  diferentes niveles y tareas a resolver. Los niveles están diseñados de tal modo que los jugadores necesitan alcanzar un puntuaje mínimo para poder pasar al siguiente nivel.
 
 
-Se basa en diferentes juegos de role, en los que los alumnos tienen que realizar, en parejas de dos, una serie de tareas de forma cooperativa. Estas tareas consisten en realizar una serie de compras en diversas tiendas como por ejemplo una tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN) que se encuentran dentro de un centro commercial. 
+El juego en sí consiste en 3 niveles diferentes: Mientras el primer nivel consiste en una sala preparatoria para facilitar a los jugadores el bagagje lingüístico necesario los niveles 2 y 3 consisten en diferentes juegos de role. En estos últimos los alumnos tienen que realizar, en parejas de dos, una serie de tareas colaborativas. Estas tareas consisten en realizar varias compras en diferentes tiendas (tienda de ropa (MANGO)y una tienda de aparatos electrónicos (SATURN. Ambas se encuentran dentro de un centro commercial. 
 
 <img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/01entrada.png" align="middle" height="300">
 
