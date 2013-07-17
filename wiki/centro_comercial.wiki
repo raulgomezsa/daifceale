@@ -36,6 +36,9 @@ La primera actividad consiste en familiarizar a los alumnos con el vocabulario n
 El principal objetivo de la actividad no es sólo el de facilitar a los alumnos el bagaje lingüístico necesario para poder realizar posteriormente los dos juegos de role, sino además de motivarles a aprender y consolidar nuevo vocabulario mediante una actividad lúdica e interactiva. 
 Una vez pasada por la sala de juegos, en la que los alumnos tienen que sacar un mínimo de 40/60 puntos, se les permite pasar via teletransporte a las dos siguientes actividades que se desarrollan en una tienda de ropa y en una tienda de aparatos electrónicos.
 
+<img src="https://daifceale.googlecode.com/svn/trunk/Multimedia/Imagenes/15teleport.png" align="middle" height="300">
+
+
 ==Actividad 2==
 ===Tienda de ropa===
 El primer juego de role está situado en la planta baja, en una tienda de ropa (MANGO)justo a la izquierda de la entrada.
