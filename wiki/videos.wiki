@@ -1,14 +1,27 @@
-#summary One-sentence summary of this page.
 #labels Phase-Design
+=Capturas de vídeo=
+==Vídeo Memory 1==
+[https://daifceale.googlecode.com/files/Memory.mp4 Descarga del vídeo]
+||<wiki:video url="https://www.youtube.com/watch?v=PpbqLp5_2Gg" width=700/>||
 
-= Introduction =
+==Vídeo Habitación==
+[https://daifceale.googlecode.com/files/Hidden.mp4 Descarga del vídeo 1]
+||<wiki:video url="https://www.youtube.com/watch?v=by0hXsl2Lfk" width=700/>||
 
-Add your content here.
+[https://daifceale.googlecode.com/files/HiddenRoom2.avi Descarga del vídeo 2]
+||<wiki:video url="https://www.youtube.com/watch?v=Bwi8xiw0LE8" width=700/>||
 
+==Vídeo Memory 2==
+[https://daifceale.googlecode.com/files/MemorySaturn.mp4 Descarga del vídeo]
+||<wiki:video url="https://www.youtube.com/watch?v=bDFDatWUZrI" width=700/>||
 
-= Details =
+==Vídeo Saturn==
+[https://daifceale.googlecode.com/files/Saturn.mp4 Descarga del vídeo 1]
+||<wiki:video url="https://www.youtube.com/watch?v=DcSeZAeYu3Y" width=700/>||
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[https://daifceale.googlecode.com/files/VideoSaturnConAudio.avi Descarga del vídeo 2]
+||<wiki:video url="https://www.youtube.com/watch?v=L8oVXz2-iB8" width=700/>||
+
+==Vídeo Mango==
+[https://daifceale.googlecode.com/files/MangoComercios.mp4 Descarga del vídeo]
+||<wiki:video url="https://www.youtube.com/watch?v=YlGVbP0jJXY" width=700/>||
