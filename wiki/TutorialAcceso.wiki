@@ -18,9 +18,8 @@ Para conectarte debes:
 ==Paso 3: Conectarse al mundo virtual==
 Ahora necesitáis los datos insertados durante el registro:
 
-  * User Name : Aqui el nombre del avatar completo, separado por un espacio 
-
-entre nombre y apellido. Ej:Cristina Utrera
+  * Nombre : Aqui el nombre del avatar. Ej:Cristina Utrera, en este campo se inserta Cristina.
+  * Apellido :  Aqui el apellido del avatar. Ej:Cristina Utrera, en este campo se inserta Utrera.
   * Contraseña : Vuestra contraseña.
   * Connect To : http://opensim.uca.es:8002
 
