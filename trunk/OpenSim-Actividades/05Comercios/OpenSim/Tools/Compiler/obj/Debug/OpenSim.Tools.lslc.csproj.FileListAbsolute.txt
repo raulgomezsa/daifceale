@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Tools.lslc.exe
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Tools.lslc.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.exe
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.exe
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Tools.lslc.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.exe
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Tools\Compiler\obj\Debug\OpenSim.Tools.lslc.pdb

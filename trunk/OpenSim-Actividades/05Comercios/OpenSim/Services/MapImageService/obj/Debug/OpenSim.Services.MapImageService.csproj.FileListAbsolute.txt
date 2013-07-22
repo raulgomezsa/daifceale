@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.MapImageService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.MapImageService.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.dll
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.MapImageService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\MapImageService\obj\Debug\OpenSim.Services.MapImageService.pdb

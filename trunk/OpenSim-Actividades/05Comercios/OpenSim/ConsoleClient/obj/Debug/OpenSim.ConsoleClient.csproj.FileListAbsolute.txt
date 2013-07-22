@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.ConsoleClient.exe
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.ConsoleClient.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.exe
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.exe
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.ConsoleClient.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.exe
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\ConsoleClient\obj\Debug\OpenSim.ConsoleClient.pdb

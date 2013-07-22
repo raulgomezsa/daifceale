@@ -1,0 +1,12 @@
+[2012/05/23 11:41:19.00]  
+AbsolutePosition: <130.3027, 123.9728, 21.33452>
+CreatorID: 014ca75f-aaf2-4aad-8582-99ab9e49507e
+Description: 
+LastOwnerID: 014ca75f-aaf2-4aad-8582-99ab9e49507e
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 014ca75f-aaf2-4aad-8582-99ab9e49507e
+UUID: 828bb185-db24-419c-8a89-51b0486a5499
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
