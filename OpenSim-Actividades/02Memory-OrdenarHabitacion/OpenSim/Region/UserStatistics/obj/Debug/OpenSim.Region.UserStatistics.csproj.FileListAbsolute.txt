@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Region.UserStatistics.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Region.UserStatistics.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.dll
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Region.UserStatistics.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Region\UserStatistics\obj\Debug\OpenSim.Region.UserStatistics.pdb

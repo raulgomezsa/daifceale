@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.InventoryService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.InventoryService.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.dll
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.InventoryService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\InventoryService\obj\Debug\OpenSim.Services.InventoryService.pdb
