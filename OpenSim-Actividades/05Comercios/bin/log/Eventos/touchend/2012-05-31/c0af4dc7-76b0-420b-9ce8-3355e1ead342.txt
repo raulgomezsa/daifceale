@@ -1,0 +1,24 @@
+[2012/05/31 11:28:29.00]  
+AbsolutePosition: <163.2456, 162.6608, 21.32496>
+CreatorID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+Description: 
+LastOwnerID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+UUID: 0d01126a-d431-4212-b269-252503c29787
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[2012/05/31 11:43:59.00]  
+AbsolutePosition: <163.2456, 162.6608, 21.32496>
+CreatorID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+Description: 
+LastOwnerID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: c0af4dc7-76b0-420b-9ce8-3355e1ead342
+UUID: 0d01126a-d431-4212-b269-252503c29787
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

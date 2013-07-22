@@ -1,0 +1,60 @@
+[2012/05/23 12:02:06.00]  
+AbsolutePosition: <123.6751, 134.5929, 21.33208>
+CreatorID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+Description: 
+LastOwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+UUID: dbd673ac-5800-4aca-bca8-86982e59a915
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[2012/05/23 12:02:26.00]  
+AbsolutePosition: <123.6751, 134.5929, 21.33208>
+CreatorID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+Description: 
+LastOwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+UUID: dbd673ac-5800-4aca-bca8-86982e59a915
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[2012/05/23 12:02:27.00]  
+AbsolutePosition: <123.6751, 134.5929, 21.33208>
+CreatorID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+Description: 
+LastOwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+UUID: dbd673ac-5800-4aca-bca8-86982e59a915
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[2012/05/23 12:19:50.00]  
+AbsolutePosition: <123.6751, 134.5929, 21.33208>
+CreatorID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+Description: 
+LastOwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+UUID: dbd673ac-5800-4aca-bca8-86982e59a915
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[2012/05/23 14:20:37.00]  
+AbsolutePosition: <123.6751, 134.5929, 21.33208>
+CreatorID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+Description: 
+LastOwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+LinkNum: 0
+Material: 3
+Name: Primitive
+OwnerID: 292df1e6-6d5c-4cd9-a191-13e771a0e890
+UUID: dbd673ac-5800-4aca-bca8-86982e59a915
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
