@@ -1,0 +1,35 @@
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.AvatarService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.AvatarService.pdb
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+D:\Simuladores\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\bin\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim-0.7.3-source-base_ruta_relativa\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_modificado\bin\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_modificado\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\bin\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_inserciones_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.pdb
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\Users\Angeles\Dropbox\Proyecto\Código modificado y software análisis\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.dll
+C:\opensimAngeles\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.pdb
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\opensimAngeles\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\bin\OpenSim.Services.AvatarService.pdb
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.dll
+C:\Users\victor\Desktop\opensim_0.7.3_database\opensim_0.7.3_database\OpenSim\Services\AvatarService\obj\Debug\OpenSim.Services.AvatarService.pdb
