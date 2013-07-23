@@ -6,6 +6,8 @@ Data collected in April 2013 pilot study (anonymised).
 
 = Details =
 
+[April_2013_ECTEL_2013_Chats Textchat logs] 
+
 [http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/pre-post-tests.csv Pre- and post- test results]
 
 [http://daifceale.googlecode.com/svn/trunk/studies-data/april2013/boxplot.R Program used for boxplot generation] (in [http://www.r-project.org/ R programming language])
