@@ -1,0 +1,19 @@
+#summary Chats analyzed in EC-TEL 2013 paper
+
+= Introduction =
+
+In this page we comment the data collected in the textchats and analyzed for [April_2013_ECTEL_2013 ECTEL2013] paper.
+
+
+= Tables =
+
+Table 1. Number of words and number of phrases and turns in text-based chat
+
+Table 2. Discourse functions of clauses in the written interaction during the game-play
+
+Table 3. Linguistic features of students foreign language production via text chat during the online game
+
+
+= Textchats =
+
+Link
