@@ -43,4 +43,4 @@ Table 3. Linguistic features of students foreign language production via text ch
 
 = Textchats =
 
-Link
+[http://daifceale.googlecode.com/files/texchatslogs_ECTEL13-anon.zip Anonymized texchat logs]
