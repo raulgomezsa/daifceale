@@ -1,27 +1,30 @@
 #labels Phase-Design
 =Capturas de vídeo=
+
+Si no puede ver los vídeos en su navegador, pruebe a descargarlos usando los enlaces al efecto y visualizarlos en su equipo.
+
 ==Vídeo Memory 1==
-[https://daifceale.googlecode.com/files/Memory.mp4 Descarga del vídeo]
+[https://daifceale.googlecode.com/files/Memory.mp4 Descarga del vídeo Memory1]
 ||<wiki:video url="https://www.youtube.com/watch?v=PpbqLp5_2Gg" width=700/>||
 
 ==Vídeo Habitación==
-[https://daifceale.googlecode.com/files/Hidden.mp4 Descarga del vídeo 1]
+[https://daifceale.googlecode.com/files/Hidden.mp4 Descarga del vídeo Habitación1]
 ||<wiki:video url="https://www.youtube.com/watch?v=by0hXsl2Lfk" width=700/>||
 
-[https://daifceale.googlecode.com/files/HiddenRoom2.avi Descarga del vídeo 2]
+[https://daifceale.googlecode.com/files/HiddenRoom2.avi Descarga del vídeo Habitación2]
 ||<wiki:video url="https://www.youtube.com/watch?v=Bwi8xiw0LE8" width=700/>||
 
 ==Vídeo Memory 2==
-[https://daifceale.googlecode.com/files/MemorySaturn.mp4 Descarga del vídeo]
+[https://daifceale.googlecode.com/files/MemorySaturn.mp4 Descarga del vídeo Memory2]
 ||<wiki:video url="https://www.youtube.com/watch?v=bDFDatWUZrI" width=700/>||
 
 ==Vídeo Saturn==
-[https://daifceale.googlecode.com/files/Saturn.mp4 Descarga del vídeo 1]
+[https://daifceale.googlecode.com/files/Saturn.mp4 Descarga del vídeo Saturn1]
 ||<wiki:video url="https://www.youtube.com/watch?v=DcSeZAeYu3Y" width=700/>||
 
-[https://daifceale.googlecode.com/files/VideoSaturnConAudio.avi Descarga del vídeo 2]
+[https://daifceale.googlecode.com/files/VideoSaturnConAudio.avi Descarga del vídeo Saturn2]
 ||<wiki:video url="https://www.youtube.com/watch?v=L8oVXz2-iB8" width=700/>||
 
 ==Vídeo Mango==
-[https://daifceale.googlecode.com/files/MangoComercios.mp4 Descarga del vídeo]
+[https://daifceale.googlecode.com/files/MangoComercios.mp4 Descarga del vídeo Mango]
 ||<wiki:video url="https://www.youtube.com/watch?v=YlGVbP0jJXY" width=700/>||
