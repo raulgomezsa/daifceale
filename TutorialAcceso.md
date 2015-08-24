@@ -1,0 +1,30 @@
+# Tutorial de Acceso al Mundo Virtual #
+
+---
+
+
+Hola a todos,
+Os invitamos a participar en una experiencia 3D para aprender nuevas cosas
+
+en alemán!
+Para conectarte debes:
+
+## Paso 1: Descargar e instalar el siguiente programa ##
+
+[Descarga del Visor Imprudence](http://imprudence.googlecode.com/files/Imprudence-1.3.2-Setup.exe)
+
+## Paso 2: Ver el siguiente video explicativo sobre el uso del programa ##
+Es recomendable seguir el tutorial del **Paso 3** a la vez que siguen este vídeo tutorial.
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=s-bagiSC-48' target='_blank'><img src='http://img.youtube.com/vi/s-bagiSC-48/0.jpg' width='700' height=344 /></a>
+
+## Paso 3: Conectarse al mundo virtual ##
+Es recomendable seguir el vídeo del **Paso 2** a la vez que siguen este pequeño tutorial. Ahora necesitamos los siguientes datos:
+
+  * Nombre : Aqui el nombre del avatar. Ej:Cristina Utrera, en este campo se inserta Cristina.
+  * Apellido :  Aqui el apellido del avatar. Ej:Cristina Utrera, en este campo se inserta Utrera.
+  * Contraseña : Vuestra contraseña.
+  * Grid : Para seleccionar el grid primero debemos añadirlo con el botón "Grid Manager"->"Add New grid". En el campo "Grid name" debemos añadir un nombre identificativo, como por ejemplo "COMERCIOS" y en el campo "Login URI" debemos introducir "http://opensim.uca.es:8002".
+Una vez hecho esto ya podemos seleccionar el Grid en el menú desplegable "COMERCIOS". Si nos hemos descargado el juego desde el repositorio de Google Code, y lo estamos ejecutando desde la propia máquina debemos seleccionar "localhost".
+
+¡Ánimo a todos! y esperamos que os guste.
+Danke für alles!
